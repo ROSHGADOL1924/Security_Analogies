@@ -1,0 +1,9 @@
+# Security_Analogies
+Analogies to help with Security concepts.
+This week I would like to discuss how grateful I am that the ISO developed the OSI layer system back when I was one year old (1984). I am thankful because I love the fact that I only have to type a website's name and get a quick response, without having to deconstruct the layers myself. I love the fact that there are plenty of applications that make my life, and I am sure yours much more convenient (can I get an amen for Walmart and Amazon? :)) and not only that, but nowadays we can do our banking, schedule health appointments and communicate with loved ones who live at a distance, like my family does in Peru.
+
+I am completely amazed at human's ability to create such convenient model that caters to our needs by connecting coax or fiber cables or maybe connect wirelessly in the physical layer. Then uses the ethernet or switches at the data link layer, then deals with the packets in the network one, then transports them from end to end in the transport layer, then syncs and sends to port in the session one, then prepares the data for me in the presentation one, so I can receive it in an understandable manner at the application layer.
+
+Like Ahmed would say, the developers of the OSI models are the real MVPs. 
+
+Ps: kudos to French Software engineer Hubert Zimmerman who first developed this concept in 1978.
